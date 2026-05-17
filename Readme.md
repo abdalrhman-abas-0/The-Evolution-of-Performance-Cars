@@ -1,5 +1,7 @@
 # Evolution of Performance Cars
 
+![First_Page](./First_Page.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -22,8 +24,6 @@
 - The demands of the customers for more SUVs, and more in general, played a role in changing the manufacturers' plans on how their portfolio should be.
 
 We will examine how the performance segment has changed over time as a response of the external factors.
-
-![First_Page](./First_Page.png)
 
 ---
 
