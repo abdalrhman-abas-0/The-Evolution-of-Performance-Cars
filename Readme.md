@@ -36,8 +36,8 @@ We will examine how the performance segment has changed over time as a response 
 ├── brands.csv                        # Brand metadata — names, logos, flags, country, foundation year
 ├── Performance_cars_dashboard.pbix   # Power BI file — data model, DAX measures, and dashboard visuals
 ├── Data Modeling Docs.md             # Full technical documentation — pipeline, Power Query, model, relationships, measures
-├── Evolution of Performance Cars Report.MD  # This file — project report and findings
-└── change_location.png                       # Guide image — how to redirect data sources in Power BI Desktop
+├── Readme.MD                         # This file — project report and findings
+└── change_location.png               # Guide image — how to redirect data sources in Power BI Desktop
 ```
 
 ---
@@ -76,7 +76,7 @@ Open `Performance_cars_dashboard.pbix` in Power BI Desktop. Since the data sourc
 5. Back in the Data source settings dialog, select the `brands.csv` entry and repeat the same steps to redirect it to your local `brands.csv`.
 6. Click **Close**, then click **Refresh** to reload the data from the new paths.
 
-![How to change data source location in Power BI Desktop](change_location.png)
+![How to change data source location in Power BI Desktop](./change_location.png)
 
 > For full detail on the data model, Power Query steps, relationships, and DAX measures, see [Data Modeling Docs.md](Data%20Modeling%20Docs.md).
 
